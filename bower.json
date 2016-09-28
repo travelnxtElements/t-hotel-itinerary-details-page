@@ -12,7 +12,7 @@
     "t-faredetails": "travelnxtelements/t-faredetails#^1.1.7",
     "t-button": "atomelements/t-button#^1.2.0",
     "t-shared-lib": "travelnxtelements/t-shared-lib#^1.0.0",
-    "t-api-components": "travelnxtelements/t-api-components",
+    "t-api-components": "travelnxtelements/t-api-components#master",
     "t-hotel-itinerary-details": "travelnxtelements/t-hotel-itinerary-details#master"
   },
   "devDependencies": {
