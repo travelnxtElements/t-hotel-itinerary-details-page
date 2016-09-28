@@ -13,7 +13,7 @@
     "t-button": "atomelements/t-button#^1.2.0",
     "t-shared-lib": "travelnxtelements/t-shared-lib#^1.0.0",
     "t-api-components": "travelnxtelements/t-api-components",
-    "t-hotel-itinerary-details": "travelnxtelements/t-hotel-itinerary-details"
+    "t-hotel-itinerary-details": "travelnxtelements/t-hotel-itinerary-details#master"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
